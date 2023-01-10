@@ -1,0 +1,17 @@
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\bin\Debug\loginregwithsql.exe.config
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\bin\Debug\loginregwithsql.exe
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\bin\Debug\loginregwithsql.pdb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\bin\Debug\loginregwithsql.xml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.vbproj.AssemblyReference.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\MainWindow.g.vb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\Application.g.vb
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql_MarkupCompile.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql_MarkupCompile.lref
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\MainWindow.baml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.g.resources
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.Resources.resources
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.vbproj.GenerateResource.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.vbproj.CoreCompileInputs.cache
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.exe
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.xml
+C:\Users\PoojaThammegowda\Downloads\PROJECTS\WEEKLY REPORTS\26-30\THURSDAY\MORNING\loginregwithsql\obj\Debug\loginregwithsql.pdb
